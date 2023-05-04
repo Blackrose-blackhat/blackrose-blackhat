@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackrose-blackhat" alt="blackrose-blackhat" /></a> </p>
 
-- 🔭 I’m currently working on **Subnetter**
+- 🔭 I’m currently working on **FINTELLIGENT**
 
 - 💬 Ask me about **Open Source , Flutter , React Js**
 
 - 📫 How to reach me **musharafz2k3@gmail.com**
 
-- ⚡ Fun fact **I think I am Lame**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
