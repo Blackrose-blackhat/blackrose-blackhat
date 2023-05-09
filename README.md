@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FINTELLIGENT**
 
-- 💬 Ask me about **Open Source , Flutter , React Js**
+- 💬 Ask me about **Open Source , Flutter , React Js , firebase , firestore , linux**
 
 - 📫 How to reach me **musharafz2k3@gmail.com**
 
