@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackrose-blackhat" alt="blackrose-blackhat" /></a> </p>
 
-- 🔭 I’m currently working on **FINTELLIGENT**
+- 🔭 I’m currently working on **TEAM UP**
 
-- 💬 Ask me about **Open Source , Flutter , React Js , firebase , firestore , linux**
+- 💬 Ask me about **Open Source , Flutter , React Js , linux , Nodejs , Nextjs **
 
 - 📫 How to reach me **musharafz2k3@gmail.com**
 
