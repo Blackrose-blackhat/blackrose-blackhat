@@ -1,19 +1,17 @@
 <h1 align="center">Hey 👋 I'm Mushraf Parwej</h1>
-<h3 align="center">🚀 A Cross-Platform Full Stack Developer | OSS Contributor | Cloud-Native Builder</h3>
+<h3 align="center">🚀 Cross-Platform Developer | OSS Contributor | DevTool Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackrose-blackhat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=blackrose-blackhat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-🔭 I’m currently building **DB GPT** – a local-first tool to query databases with natural language using LLMs.  
-💡 Exploring ideas in **AI Agents**, **DevTooling**, and **infra-first SaaS**.  
-💬 Ask me about anything related to:  
-&nbsp;&nbsp;&nbsp;&nbsp;• Open Source, Linux, Web & Mobile Development  
-&nbsp;&nbsp;&nbsp;&nbsp;• Flutter, React/Next.js, Node.js, Docker  
-&nbsp;&nbsp;&nbsp;&nbsp;• PostgreSQL, MongoDB, Supabase, Firebase  
-📫 Reach me at: **musharafz2k3@gmail.com**
+🔭 I’m currently building **DB GPT** – local-first dev tool to query SQL/NoSQL DBs using natural language.  
+🧠 Interested in **AI agents**, **infra-first SaaS**, and **developer experience tools**.  
+💬 Ask me about:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Open Source • Flutter • React / Next.js • Node.js • Linux • Docker  
+📫 Reach me: **musharafz2k3@gmail.com**
 
 ---
 
@@ -27,56 +25,63 @@
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+<h3>🧰 Tech Stack</h3>
 
 **Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,cpp,java,py,dart,bash" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=ts,js,go,cpp,java,py,dart,bash" /></p>
 
 **Frontend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,html,css,bootstrap" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,html,css,bootstrap" /></p>
 
-**Backend / DevTools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,express,fastify,docker,vercel,supabase,firebase" />
-</p>
+**Backend / DevOps**  
+<p><img src="https://skillicons.dev/icons?i=nodejs,graphql,express,docker,vercel,supabase,firebase" /></p>
 
 **Databases**  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
 
 **Others**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,androidstudio" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,figma,linux" /></p>
 
 ---
 
 <h3>🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackrose-blackhat&theme=gruvbox&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=blackrose-blackhat&theme=gruvbox&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackrose-blackhat&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrose-blackhat&layout=compact&theme=github_dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blackrose-blackhat&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrose-blackhat&layout=compact&theme=radical" width="47%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose-blackhat&theme=github-dark-blue&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose-blackhat&theme=radical" width="94%" />
+</p>
+
+---
+
+<h3>📅 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrose-blackhat&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+<h3>💡 GitHub Profile Summary Cards</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrose-blackhat&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackrose-blackhat&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackrose-blackhat&theme=tokyonight" />
 </p>
 
 ---
 
 <h3>🚀 Let's Build Together</h3>
 
-If you're building tools for developers, experimenting with AI Agents, or hacking on infra-first products – I'm always up to collaborate or brainstorm!
+If you're building AI agents, devtools, or hacking on productivity SaaS — hit me up.  
+I love creating tools that make developers 10x better.
 
 ---
-
