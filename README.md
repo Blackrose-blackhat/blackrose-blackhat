@@ -7,7 +7,7 @@
 
 ---
 
-🔭 I’m currently building **DB GPT** – local-first dev tool to query SQL/NoSQL DBs using natural language.  
+🔭 I’m currently building **Guardina** – code health checker.  
 🧠 Interested in **AI agents**, **infra-first SaaS**, and **developer experience tools**.  
 💬 Ask me about:  
 &nbsp;&nbsp;&nbsp;&nbsp;• Open Source • Flutter • React / Next.js • Node.js • Linux • Docker  
