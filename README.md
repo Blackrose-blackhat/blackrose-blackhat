@@ -7,7 +7,7 @@
 
 ---
 
-🔭 I’m currently building **Guardina** – code health checker.  
+🔭 I’m currently building **Guardian** – code health checker.  
 🧠 Interested in **AI agents**, **infra-first SaaS**, and **developer experience tools**.  
 💬 Ask me about:  
 &nbsp;&nbsp;&nbsp;&nbsp;• Open Source • Flutter • React / Next.js • Node.js • Linux • Docker  
